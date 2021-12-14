@@ -1,0 +1,3 @@
+C:\Users\court\Documents\School\NYU\3 Sophomore Fall\CSUY3113\Projects\P1\VisualStudioSDLProject\SDLProject\Debug\SDLProject.exe
+C:\Users\court\Documents\School\NYU\3 Sophomore Fall\CSUY3113\Projects\P1\VisualStudioSDLProject\SDLProject\Debug\SDLProject.pdb
+C:\Users\court\Documents\School\NYU\3 Sophomore Fall\CSUY3113\Projects\P1\P1 Complete - Courtney Battieste\SDLProject\Debug\SDLProject.exe
